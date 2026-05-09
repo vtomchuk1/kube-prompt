@@ -1,4 +1,4 @@
-# ChatGPT yaml prompt for DevOps
+# Gemini yaml prompt
 
 |NAME|PROMPT|DESCRIPTION|EXAMPLE|
 |--|--|--|--|
